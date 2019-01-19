@@ -14,8 +14,12 @@
 	<meta name="robots" content="ALL" />
 	<meta name="revisit-after" content="1 days" />
 	<meta name="author" content="Lucas Volfe" />	
-	<link href="resources/img/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	<link href="resources/img/favicon.png" rel="icon" type="image/png" />
 	<link rel="stylesheet" type="text/css" href="resources/css/estilos.min.css"/>
+	
+	
+	  
+  	<script type="text/javascript" src="resources/js/main.js"></script>
 </head>
 <body>
 
